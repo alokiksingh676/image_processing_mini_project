@@ -47,14 +47,14 @@ Test scripts included:
 2. Navigate to the project directory
 
 3. Load functions:
-exec('entropy/entropy.sci');
-exec('histeq/histeq.sci');
-exec('medfilt2/my_medfilt2.sci');
+- exec('entropy/entropy.sci');
+- exec('histeq/histeq.sci');
+- exec('medfilt2/my_medfilt2.sci');
 
 4. Run test scripts:
-exec('entropy/test_entropy.sce');
-exec('histeq/test_histeq.sce');
-exec('medfilt2/test_medfilt2.sce');
+- exec('entropy/test_entropy.sce');
+- exec('histeq/test_histeq.sce');
+- exec('medfilt2/test_medfilt2.sce');
 
 ---
 
